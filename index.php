@@ -1,5 +1,13 @@
+<html>
+<head>
+  <title>Hello World</title>
+</head>
+
+<body>
+
 <?php
-echo "<h1>Welcome to PHP</h1>";
-echo "<p>Today is " . date("l, F j, Y") . "</p>";
-echo "<p>Server time: " . date("h:i:s A") . "</p>";
+echo "<h1>Hello World!</h1>";
 ?>
+
+</body>
+</html>
