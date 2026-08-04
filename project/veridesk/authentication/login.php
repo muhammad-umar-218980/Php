@@ -85,9 +85,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <button type="submit" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2.5 rounded-lg transition duration-200">Login</button>
         </form>
 
-        <p class="text-center text-sm text-gray-500 mt-4">
+        <!-- <p class="text-center text-sm text-gray-500 mt-4">
             <a href="<?php echo BASE_URL; ?>/authentication/register-admin.php" class="text-indigo-600 hover:underline">Register Admin</a>
-        </p>
+        </p> -->
     </div>
 </body>
 </html>
